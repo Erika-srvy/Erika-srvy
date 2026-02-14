@@ -1,7 +1,7 @@
-# Hi, my name is Érika, I am 18 years old.
+# Olá, meu nome é Érika, tenho 18 anos.
 ## interesses:
 - Back-end
-- Databases
+- Banco de Dados
 
 <!--
 **Erika-srvy/Erika-srvy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
