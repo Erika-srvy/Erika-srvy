@@ -1,5 +1,7 @@
-## Hi, my name is Érika, I am 18 years old, and I find the field of Information Systems very interesting.
-
+# Hi, my name is Érika, I am 18 years old.
+## interesses:
+- Back-end
+- Databases
 
 <!--
 **Erika-srvy/Erika-srvy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
