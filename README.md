@@ -3,7 +3,7 @@
 ## Sobre mim
 Tenho 18 anos e sou estudante de Sistemas de Informação.
 
-## interesses
+## Interesses
 - Back-end
 - Banco de Dados
 
