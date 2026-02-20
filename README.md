@@ -1,4 +1,8 @@
-# Olá, meu nome é Érika, tenho 18 anos.
+# Olá, meu nome é Érika.
+
+## Sobre mim:
+Tenho 18 anos e sou estudante de Sistemas de Informação.
+
 ## interesses:
 - Back-end
 - Banco de Dados
